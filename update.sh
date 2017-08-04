@@ -1,5 +1,5 @@
 git add . && git commit -m 'update blog' && git push origin master
-echo 澶囦唤瀹屾垚
-echo 鎸変换鎰忛敭缁撴潫
+echo 备份完成
+echo 按任意键结束
 pause
 exit
