@@ -25,6 +25,7 @@ git push
 ```
 npm instal lhexo-deployer-git  --save
 ```
+---
 ##  about
 [关于Hexo](https://hexo.io/zh-cn/docs/)
 

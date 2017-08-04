@@ -7,7 +7,7 @@ menu:
 # SubNav
 subnav:
   github: "https://github.com/ywll"
-  weibo: "http://weibo.com/"
+  weibo: "http://weibo.com/u/5376766959?is_all=1"
   #rss: "#"
   #zhihu: "#"
   #qq: "#"
@@ -17,7 +17,7 @@ subnav:
   #segmentfault: "#"
   #bilibili: "#"
   #acfun: "#"
-  #mail: "mailto:litten225@qq.com"
+  mail: "mailto:ywll@163.com"
   #facebook: "#"
   #google: "#"
   #twitter: "#"
@@ -65,10 +65,10 @@ top: true
 # Miscellaneous
 baidu_analytics: ''
 google_analytics: ''
-favicon: /favicon.png
+favicon: assets/images/favicon.png
 
 #你的头像url
-avatar: https://github.com/ywll/is_my_life/raw/master/source/assets/images/icon.jpg
+avatar: assets/images/icon.jpg
 
 #是否开启分享
 share_jia: true
