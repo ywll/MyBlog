@@ -1,14 +1,10 @@
-
 @echo off
-echo °´ÈÎÒâ¼ü¿ªÊ¼
-pause
-echo Ö´ÐÐÖÐ....
-echo ¿ªÊ¼·¢²¼...
+echo å¼€å§‹å‘å¸ƒ...
 hexo clean && hexo g && hexo d
-echo ·¢²¼Íê³É
-echo ÕýÔÚ±¸·Ýµ½githubÔ¶³Ì²Ö¿â
+echo å‘å¸ƒå®Œæˆ
+echo æ­£åœ¨å¤‡ä»½åˆ°githubè¿œç¨‹ä»“åº“
 ./update.sh
-echo ±¸·ÝÍê³É
-echo °´ÈÎÒâ¼ü½áÊø
+echo å¤‡ä»½å®Œæˆ
+echo æŒ‰ä»»æ„é”®ç»“æŸ
 pause
 exit
