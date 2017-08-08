@@ -7,4 +7,4 @@ tags:
 <!-- more -->
 
 [点击跳转到墨刀查看>>](https://modao.cc/app/FUNOxoKfTHwhC0LvCSYQPNaMAKAsLZS)  
-一款旅游类app原型，旨在遵从Material Design UI的设计风格，让用户可以以一个简单的即时的方式，展示自己的美丽旅行。
+一款旅游类app原型图，旨在遵从Material Design UI的设计风格，让用户可以以一个简单的即时的方式，展示自己的美丽旅行。
